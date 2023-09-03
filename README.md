@@ -1,5 +1,7 @@
 # 🏄‍♂️ Muhammad Khuzaifa
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 **`Mobile Application Development (Flutter Developer)`**
 
 Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app developer and graphic designer specialist I have 3 Years of experience in these Skills.
