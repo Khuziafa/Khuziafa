@@ -7,7 +7,9 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 
 
 ### 🧰 Languages and Tools
-![flutter](https://github.com/brothercodes/brothercodes/assets/124895016/cdb8e6e9-98b6-4fc5-8302-90256152ffcc)<?xml version="1.0" encoding="UTF-8"?>
+
+
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="![flutter](https://github.com/brothercodes/brothercodes/assets/124895016/cdb8e6e9-98b6-4fc5-8302-90256152ffcc)<?xml version="1.0" encoding="UTF-8"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
 <svg width="800px" height="800px" viewBox="-30.5 0 317 317" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
     <defs>
@@ -38,9 +40,7 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 </polygon>
 		</g>
 </svg>
-
-
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
