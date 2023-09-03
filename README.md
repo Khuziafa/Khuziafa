@@ -2,12 +2,10 @@
 
 **`Mobile Application Development (Flutter Developer)`**
 
-Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app developer and graphic designer specialist I have very good experience in these Skills.
+Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app developer and graphic designer specialist I have 3 Years of experience in these Skills.
 ⭐Flutter Developer with extensive in building high-performance mobile apps. Flutter is a powerful framework developed by Google that allows you to create cross-platform apps with a single code base. Flutter is the future of mobile apps. I have worked with 30+ clients all over the world.
 
-
 ### 🧰 Languages and Tools
-
 
 
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
@@ -17,7 +15,6 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
 
