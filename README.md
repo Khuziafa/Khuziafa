@@ -35,8 +35,25 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 <details>
  <summary><h3>👨‍💻 Khuziafa: Flutter App Developer with 3 Years of Experience</h3></summary>
  With a solid 3 years of hands-on experience in Flutter app development, Khuziafa has honed his skills in creating high-quality, responsive, and user-friendly applications for both Android and iOS platforms. His expertise spans across various facets of Flutter development:
-  <summary><h3>👨‍💻 Clean Code</h3></summary>
+  <summary><h3>Clean Code</h3></summary>
   Khuziafa emphasizes writing clean, maintainable, and efficient code, ensuring that applications are not only functional but also optimized for performance.
+
+    <summary><h3>Firebase Integration:</h3></summary>
+  He possesses a deep understanding of Firebase, leveraging its capabilities to build real-time applications, handle user authentication, and manage databases seamlessly.
+
+      <summary><h3>State Management:</h3></summary>
+     With proficiency in both MVVM and MVC patterns, Khuziafa ensures that the app's data flow is logical, predictable, and easy to trace, leading to more robust and maintainable applications.
+
+          <summary><h3>Google Ads Integration:</h3></summary>
+          Khuziafa has experience integrating Google Ads, allowing businesses to monetize their apps effectively and drive revenue.
+
+              <summary><h3>Flutter UI Design:</h3></summary>
+              His design skills in Flutter are commendable. He crafts intuitive and aesthetically pleasing user interfaces that enhance user experience and engagement.
+
+                  <summary><h3>Continuous Learning</h3></summary>
+                  In the ever-evolving world of app development, Khuziafa stays updated with the latest trends, tools, and best practices in Flutter, ensuring that his apps are always at the forefront of technology.
+
+  
 
 
 
