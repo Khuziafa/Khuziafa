@@ -1,6 +1,6 @@
 # 🏄‍♂️ Muhammad Khuzaifa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+'MuhammadKhuzaifa';Second+line+of+'FlutterDeveloper')](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+'Muhammad Khuzaifa';Second+line+of+'FlutterDeveloper')](https://git.io/typing-svg)
 
 **`Mobile Application Development (Flutter Developer)`**
 
