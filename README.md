@@ -2,7 +2,7 @@
 
 **`Mobile Application Development (Flutter Developer)`**
 
-My name is Muhammad Khuzaifa and I am a Flutter mobile app developer and graphic designer specialist I have very good experience in these Skills.
+Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app developer and graphic designer specialist I have very good experience in these Skills.
 ⭐Flutter Developer with extensive in building high-performance mobile apps. Flutter is a powerful framework developed by Google that allows you to create cross-platform apps with a single code base. Flutter is the future of mobile apps. I have worked with 30+ clients all over the world.
 
    <p align="left">
