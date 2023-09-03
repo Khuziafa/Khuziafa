@@ -29,11 +29,8 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brothercodes=anuraghazra&show_icons=true)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
