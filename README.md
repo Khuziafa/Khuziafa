@@ -2,7 +2,8 @@
 
 **`Mobile Application Development (Flutter Developer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+My name is Muhammad Khuzaifa and I am a Flutter mobile app developer and graphic designer specialist I have very good experience in these Skills.
+⭐Flutter Developer with extensive in building high-performance mobile apps. Flutter is a powerful framework developed by Google that allows you to create cross-platform apps with a single code base. Flutter is the future of mobile apps. I have worked with 30+ clients all over the world.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
