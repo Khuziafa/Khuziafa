@@ -7,8 +7,39 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 
 
 ### 🧰 Languages and Tools
+![flutter](https://github.com/brothercodes/brothercodes/assets/124895016/cdb8e6e9-98b6-4fc5-8302-90256152ffcc)<?xml version="1.0" encoding="UTF-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="-30.5 0 317 317" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="3.9517088%" y1="26.9930287%" x2="75.8970734%" y2="52.9192657%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%">
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAulBMVEX///9HxfsAVp4Atfgzwft00Px5lb4AUZwAsPj5/f/L7f5Aw/s7wvtZyvv4/f8Au/+k4P0AR5hTyPut4/0ATZoARpd70/wAUpcAT5EASpkVuPiD0/vK1+cAS4oAQXcARH0Ql9gAN2Vskb1IeLBSfrO15PxbhLYAPXFjirnB6f3X8f6d2/tKc6kASZIARooQks4APHoANGwALl8OicAAI1EAM14AHUUALVQAEDIJgLDF4fEANoZ+n8W7y98k+j3CAAADy0lEQVR4nO3Ya1PTQBgF4FDKTS4BAa1KW0ARERW1QsXL//9bJi0gtMne3pDd83LO5053njkn2ZlkWQJZ21yQp/ssNqM+a5vrBBJIYMQQCA98rh3IBtGBbBAdqL5B9UBOFB3IBtGBbBAdyAYJTBzIiaID2SA6kA2iA9kggYkDOVF0IBtEB7JBdCAbJDBt4Jb2iaoH6n/JaAeqnyiBBBIYNwSiA9Xfg+qB6idKIIEExg3fouhA9Q3yqxo6UH2DBBJIYNzoB/KaIJDAqCGQQALjhkACCYwbAgkkMG4IRAdmBIID1U+UQAIJjBsC0YHq70H1QPUTJZBAAsvsLjWQzbOEgd11ebrnKQPlpyx0twOALd2DBDodEwJUP1ECnU5OGLilHZhlSxvKgVn2QkpMHSgmpg8UEhGAomcRAyggogCDh4oDDCQiAYOIWMAAIhrQm4gH9CQiAr2ImECPexEV6EzEBToOFRnoRMQGOhDtwDeLKQOtRAfg6uLrlIEWohNwUUx8VKCR6AiUEh8ZaCA6A2XERwfWEj2AEmILwBqiFzCc2AqwkugJDCW2BKwgegPDiK0B54gBwBBii8AZYhDQn9gq8AExEOhLbBl4jxgM9CO2DrwjCoA+xAjAG6II6E6MApwQhUBXYiRgQRQD3YjRgFn20fYDK9CFGBFojQPQToQH2ogKgGaiCqCJqARYT1QDrCMqAlYTVQGriMqA80R1wFmiQuBDYnc3NqM+wcD7RKXA/0S1wFuiYuCUqBpYEjcSBp7JgUUSBmbZuZyYH36KrTBGTMwPV/bexlYYIyTmh587ncSJ2xLiBJg8UdBiMdFOB4AY3OJNgwDEwBbvGgQgBrV4r8EJ8V1shTEBxBmgPmJ+8eVlRzOxApg8cdeHWALnhYqIBbBXAdRDzC++9qqFSogFsN+rGqkWYgns11SYPvHETswvvhXAemFn731shTHWFgvgsF8/UgCipcUSODSNFJ2Yj6ZAsxCYWAAHQ9tIkYn56HsBtI4Ul1gATwcuIy3zCpA4AQ7cKoQklsBS6FZh+sS5r+H56MfRqftIJ8QPsRXGzLRYAo98RgpAfNDiFDit0F0IRMxHV5d3QmcfELEE3gh7HjwcYgEcl8JB35OHQsyvr8bjy1OvdUIR8+uf46NhIA+AeLJ6fSXhARB//ZbxAIgHOw0Qj2MrjDnY109sosXEh8oWNRDZogbiE2jxCRA5VJfsJE5ki04tLsdWGNNIi4kT2aIGYhP3on5i6i028br5E1thTCPPIomRQyKJIMQVcfYTvzSOl8U5/lv93/8AcfrFuqjCoywAAAAASUVORK5CYII="/>
+</stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%">
+
+</stop>
+        </linearGradient>
+    </defs>
+		<g>
+				<polygon fill="#47C5FB" points="157.665785 0.000549356223 0.000549356223 157.665785 48.8009614 206.466197 255.267708 0.000549356223">
+
+</polygon>
+				<polygon fill="#47C5FB" points="156.567183 145.396793 72.1487107 229.815265 121.132608 279.530905 169.842925 230.820587 255.267818 145.396793">
+
+</polygon>
+				<polygon fill="#00569E" points="121.133047 279.531124 158.214592 316.61267 255.267159 316.61267 169.842266 230.820807">
+
+</polygon>
+				<polygon fill="#00B5F8" points="71.5995742 230.364072 120.401085 181.562561 169.842046 230.821136 121.132827 279.531454">
+
+</polygon>
+				<polygon fill-opacity="0.8" fill="url(#linearGradient-1)" points="121.132827 279.531454 161.692896 266.072227 165.721875 234.941308">
+
+</polygon>
+		</g>
+</svg>
+
+
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
