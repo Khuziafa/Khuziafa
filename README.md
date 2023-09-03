@@ -29,7 +29,7 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?brothercodes=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brothercodes&show_icons=true)
 
 
 <details>
