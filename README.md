@@ -17,13 +17,8 @@ Hello, there My name is Muhammad Khuzaifa and I am a Flutter mobile app develope
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<br />
 
-
-
-
-
-<details>
+<br /> <details>
  <summary><h3>👨‍💻 Khuziafa: Flutter App Developer with 3 Years of Experience</h3></summary>
  With a solid 3 years of hands-on experience in Flutter app development, Khuziafa has honed his skills in creating high-quality, responsive, and user-friendly applications for both Android and iOS platforms. His expertise spans across various facets of Flutter development:<summary><h3>👉I have worked With::</h3></summary>Dart, Kotlin, SwiftFlutter, Android SDK Clean Code
 Pixel-Perfect Responsive Design
